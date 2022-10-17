@@ -21,7 +21,7 @@ function one (){
             var4 = 4
 
             {
-                var var5 = 5    
+                const var5 = 5    
             } 
                         
         }
